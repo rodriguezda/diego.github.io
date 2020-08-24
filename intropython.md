@@ -9,7 +9,7 @@ A hands on and practical introduction to python programming.
 
 ## Lectures
 
-Tentative schedule. Subject to change based on class pace and comfort level.
+Tentative schedule. Dates and topics subject to change based on class pace and comfort level.
 
 Lecture | Date | Links 
 --- | --- | --- 
