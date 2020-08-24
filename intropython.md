@@ -4,6 +4,7 @@
 A hands on and practical introduction to python programming.
 
 
+
 [Slack] | [One-on-One Office Hours](https://calendly.com/rodriguezdiego/python-office-hours) | [PSETs] | [PSET Answers]
 
 ## Lectures
@@ -14,27 +15,35 @@ Lecture | Date | Links
 --- | --- | --- 
 1 | August 25th | 🎉Intro Deck, Tools, Essential Terminology 
 2 | August 27th | Basic Data Types, String Formatting
-3 | September 1st | 283 
-4 | September 3rd | 283 
-5 | September 8th | 283 
-6 | September 10th | 283 
-7 | September 15th | 283 
-8 | September 17th | 283 
-9 | September 22nd | 283 
-10 | September 24th | 283 
-11 | September 29th | 283 
-12 | October 1st | 283 
-13 | October 6th | 283 
-14 | October 8th | 283 
-15 | October 13th | 283 
-16 | October 15th | 283 
-17 | October 20th | 283 
-18 | October 22nd | 283 
-19 | October 27th | 283 
-20 | October 29th | 283 
+3 | September 1st | Modules, Conditionals
+4 | September 3rd | Lists
+5 | September 8th | Tuples & Sets 
+6 | September 10th | Loops
+7 | September 15th | Loops (continued)
+8 | September 17th | Dicts, Functions (time permitting)
+9 | September 22nd | Functions practice 
+10 | September 24th | Functions review, Classes Introduction
+11 | September 29th | Classes 1 Practice / Build Pandas from Scratch Together!
+12 | October 1st | Classes 2: Introduction to Inheritance
+13 | October 6th | Classes 2: Practice 
+14 | October 8th | Build Pandas from Scratch Together!, Foundational Pandas Objects, Accessing Data
+15 | October 13th | Final Project Intro, Data Wrangling, Data Cleaning
+16 | October 15th | EDA (Exploratory Data Analysis)
+17 | October 20th | Titanic Lab Parts 1 & 2
+18 | October 22nd | Titanic Lab Parts 2 & 3, Data Vizualizations
+19 | October 27th | Final Project: Final Questions, Terminal Commands Deep Dive 
+20 | October 29th | Final Presentations!
 
+## Practice Problem Access
+A folder containing blank copies of all practice problem sets is in Google Drive.
 
+Please make a copy of the whole folder and save it to your Drive.
 
+Please append your name to the name of the folder (e.g. "PYTH225_JohnSmith"). Please share your copy of the folder (with edit access) with your Instructor and your IA.
+
+This is where you will keep your answers to all the practice problems.
+
+------
 
 It focuses on improving reading experience with high contrast colors and no fancy effect.
 
