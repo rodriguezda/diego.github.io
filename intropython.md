@@ -13,7 +13,7 @@ Tentative schedule. Subject to change based on class pace and comfort level.
 
 Lecture | Date | Links 
 --- | --- | --- 
-1 | August 25th | 🎉Intro Deck, Tools, Essential Terminology 
+1 | August 25th | 🎉 Intro Deck, Tools, Essential Terminology 
 2 | August 27th | Basic Data Types, String Formatting
 3 | September 1st | Modules, Conditionals
 4 | September 3rd | Lists
@@ -39,7 +39,7 @@ A folder containing blank copies of all practice problem sets is in Google Drive
 
 Please make a copy of the whole folder and save it to your Drive.
 
-Please append your name to the name of the folder (e.g. "PYTH225_JohnSmith"). Please share your copy of the folder (with edit access) with your Instructor and your IA.
+Please append your name to the name of the folder (e.g. 'PYTH225_JohnSmith'). Please share your copy of the folder (with edit access) with your Instructor and your IA.
 
 This is where you will keep your answers to all the practice problems.
 
