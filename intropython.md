@@ -39,7 +39,7 @@ A folder containing blank copies of all practice problem sets is in Google Drive
 
 Please make a copy of the whole folder and save it to your Drive.
 
-Please append your name to the name of the folder (e.g. 'PYTH225_JohnSmith'). Please share your copy of the folder (with edit access) with your Instructor and your IA.
+Please append your name to the name of the folder (e.g. `PYTH225_JohnSmith`). Please share your copy of the folder (with edit access) with your Instructor and your IA.
 
 This is where you will keep your answers to all the practice problems.
 
