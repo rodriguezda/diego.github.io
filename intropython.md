@@ -1,8 +1,18 @@
 # Intro Python
 
-A hands on and practical introduction to programming and python development
+A hands on and practical introduction to python programming.
+
 
 [Slack] | [One-on-One Office Hours](https://calendly.com/rodriguezdiego/python-office-hours) | [PSETs] | [PSET Answers]
+
+## Lectures
+
+Tentative schedule. Subject to change based on class pace and comfort level.
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 
 It focuses on improving reading experience with high contrast colors and no fancy effect.
 
