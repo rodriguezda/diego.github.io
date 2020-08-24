@@ -17,10 +17,10 @@ Lecture | Date | Links
 2 | August 27th | Basic Data Types, String Formatting
 3 | September 1st | Modules, Conditionals
 4 | September 3rd | Lists
-5 | September 8th | Tuples & Sets 
+5 | September 8th | Tuples, Sets, Dictionaries
 6 | September 10th | Loops
 7 | September 15th | Loops (continued)
-8 | September 17th | Dicts, Functions (time permitting)
+8 | September 17th | Functions
 9 | September 22nd | Functions practice 
 10 | September 24th | Functions review, Classes Introduction
 11 | September 29th | Classes 1 Practice / Build Pandas from Scratch Together!
