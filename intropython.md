@@ -1,5 +1,6 @@
-# Intro Python
+# Intro to Python
 🎉🎈🎂🍾🎊🍻💃
+
 A hands on and practical introduction to python programming.
 
 
