@@ -1,4 +1,4 @@
-# [Intro to Python]( )
+# [Intro to Python](https://github.com/rodriguezda/diego.github.io/blob/master/intropython.md)
 🎉🎈🎂🍾🎊🍻💃
 
 A hands on and practical introduction to python programming.
