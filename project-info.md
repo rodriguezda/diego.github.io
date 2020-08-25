@@ -1,4 +1,4 @@
-# [PYTH825](https://git.generalassemb.ly/drodri13/pyt-825.github.io/) Python Project Ideas
+# [PYTH825](https://github.com/rodriguezda/python825.github.io) Python Project Ideas
 🎉🎈🎂🍾🎊🍻💃 
 
 ## Overview
