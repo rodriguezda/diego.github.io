@@ -11,28 +11,28 @@ A hands on and practical introduction to python programming.
 
 Tentative schedule. Dates and topics subject to change based on class pace and comfort level.
 
-Lecture | Date | Links 
---- | --- | --- 
-1 | August 25th | 🎉 Intro Deck, Tools, Essential Terminology 
-2 | August 27th | Basic Data Types, String Formatting
-3 | September 1st | Modules, Conditionals
-4 | September 3rd | Lists
-5 | September 8th | Tuples, Sets, Dictionaries
-6 | September 10th | Loops
-7 | September 15th | Loops (continued)
-8 | September 17th | Functions
-9 | September 22nd | Functions practice 
-10 | September 24th | Functions review, Classes Introduction
-11 | September 29th | Classes 1 Practice / Build Pandas from Scratch Together!
-12 | October 1st | Classes 2: Introduction to Inheritance
-13 | October 6th | Classes 2: Practice 
-14 | October 8th | Build Pandas from Scratch Together!, Foundational Pandas Objects, Accessing Data
-15 | October 13th | Final Project Intro, Data Wrangling, Data Cleaning
-16 | October 15th | EDA (Exploratory Data Analysis)
-17 | October 20th | Titanic Lab Parts 1 & 2
-18 | October 22nd | Titanic Lab Parts 2 & 3, Data Vizualizations
-19 | October 27th | Final Project: Final Questions, Terminal Commands Deep Dive 
-20 | October 29th | Final Presentations!
+Lecture | Date | Links | Recordings
+--- | --- | --- | ---
+1 | August 25th | 🎉 Intro Deck, Tools, Essential Terminology | Recording
+2 | August 27th | Basic Data Types, String Formatting | Recording
+3 | September 1st | Modules, Conditionals | Recording
+4 | September 3rd | Lists | Recording
+5 | September 8th | Tuples, Sets, Dictionaries | Recording
+6 | September 10th | Loops | Recording
+7 | September 15th | Loops (continued) | Recording
+8 | September 17th | Functions | Recording
+9 | September 22nd | Functions practice | Recording
+10 | September 24th | Functions review, Classes Introduction | Recording
+11 | September 29th | Classes 1 Practice / Build Pandas from Scratch Together! | Recording
+12 | October 1st | Classes 2: Introduction to Inheritance | Recording
+13 | October 6th | Classes 2: Practice | Recording
+14 | October 8th | Build Pandas from Scratch Together!, Foundational Pandas Objects, Accessing Data | Recording
+15 | October 13th | Final Project Intro, Data Wrangling, Data Cleaning | Recording
+16 | October 15th | EDA (Exploratory Data Analysis) | Recording
+17 | October 20th | Titanic Lab Parts 1 & 2 | Recording
+18 | October 22nd | Titanic Lab Parts 2 & 3, Data Vizualizations | Recording
+19 | October 27th | Final Project: Final Questions, Terminal Commands Deep Dive | Recording
+20 | October 29th | Final Presentations! | Recording
 
 ## Practice Problem Access
 A folder containing blank copies of all practice problem sets is in Google Drive.
