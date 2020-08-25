@@ -1,4 +1,4 @@
-# [PYTH825](https://git.generalassemb.ly/drodri13/pyt-825.github.io/) Homework Assignments
+# [PYTH825](https://github.com/rodriguezda/python825.github.io/) Homework Assignments
 🎉🎈🎂🍾🎊🍻💃
 
 This page links to the homework and tells you how to submit it.
