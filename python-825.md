@@ -5,7 +5,7 @@ A hands on and practical introduction to python programming.
 
 
 
-[Slack] | [One-on-One Office Hours](https://calendly.com/rodriguezdiego/python-office-hours) | [PSETs] | [PSET Answers]
+[Slack] | [Diego One-on-One Office Hours](https://calendly.com/rodriguezdiego/python-office-hours) | [Juliann One-on_One Office Hours](https://calendly.com/juliann-mceachern/office-hours) [PSETs] | [PSET Answers]
 
 ## Lectures
 
