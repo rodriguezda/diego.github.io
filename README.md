@@ -1,4 +1,4 @@
-# [PYTH825](https://git.generalassemb.ly/drodri13/pyt-825.github.io/)
+# [PYTH825](https://github.com/rodriguezda/python825.github.io)
 🎉🎈🎂🍾🎊🍻💃
 
 A hands on and practical introduction to python programming.
@@ -13,7 +13,7 @@ Tentative schedule. Dates and topics subject to change based on class pace and c
 
 Lecture | Date | Links | HW | Recordings
 --- | --- | --- | --- | ---
-1 | Aug 25 | 🎉 [Tools](https://git.generalassemb.ly/drodri13/pyt-825.github.io#tools), [Essential Terminology](https://colab.research.google.com/drive/1iJC2pUjxbnBSwzqpsS382_U0tqMChc-R?usp=sharing) | No HW | Recording
+1 | Aug 25 | 🎉 [Tools](https://github.com/rodriguezda/python825.github.io#tools), [Essential Terminology](https://colab.research.google.com/drive/1iJC2pUjxbnBSwzqpsS382_U0tqMChc-R?usp=sharing) | No HW | Recording
 2 | Aug 27 | [Basic Data Types](https://colab.research.google.com/drive/1CNtvkkvHF87DqKRdgyOeQVmK3QjgBMdV?usp=sharing), [String Formatting](https://colab.research.google.com/drive/1hBXwyvt6X_lgYk7ZJ22GF8GB1wsoGC7Y?usp=sharing) | HW | Recording
 3 | Sep 1 | Modules, Conditionals | TBD |Recording
 4 | Sep 3 | Lists | TBD | Recording
